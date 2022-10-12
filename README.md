@@ -2,8 +2,8 @@
 
 MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" />
 - 🤩 I'm passionate about **firmware development** and **full stack development**
-- 🔭 I’m currently working on finishing my last semester at Columbia University.
-- 🌱 I’m currently learning embedded systems, cloud computing and machine learning.
+- 🔭 I’m currently working on finishing my last semester at **Columbia University**.
+- 🌱 I’m currently learning **embedded systems**, **cloud computing** and **machine learning**.
 - 💬 I'm coding in **Java**, **Python**, and **JavaScript/TypeScript** recently
 - 📫 How to reach me: cf2859@columbia.edu
 
