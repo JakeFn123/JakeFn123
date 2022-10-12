@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chaoyu/朝宇
 
-MSEE student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" />
+MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" />
 
 - 🔭 I’m currently working on finishing my last semester at Columbia University.
 - 🌱 I’m currently learning software development.
