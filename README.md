@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Chaoyu/朝宇
+### Hi there 👋 I'm Chaoyu Fan/范朝宇
 
-MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" />
+I am a MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" /> and a former Purdue Boilermaker<img height="20px" alt="purdue" src="./purdue-icon.png" />
 - 🤩 I'm passionate about **firmware development** and **full stack development**
 - 🔭 I’m currently working on finishing my last semester at **Columbia University**.
 - 🌱 I’m currently learning **embedded systems**, **cloud computing** and **machine learning**.
