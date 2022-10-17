@@ -12,7 +12,7 @@ I am a MSEE student @ Columbia University <img height="20px" alt="columbia" src=
 ### Check out my Resume [HERE](https://www.linkedin.com/in/chaoyu-fan/overlay/1635502118882/single-media-viewer/)
 
 <p align="center">
-<a href= "www.linkedin.com/in/chaoyu-fan/"><img src="./linkedin-icon.png"/></a>
+<a href= "www.linkedin.com/in/chaoyu-fan/"><img height="60px" img src="./linkedin-icon.png"/></a>
 </p>
 
 <!--
