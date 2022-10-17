@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Chaoyu Fan/范朝宇
 
-I am a MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" /> and a former Purdue Boilermaker<img height="20px" alt="purdue" src="./purdue-icon.png" />
-- 🤩 I'm passionate about **firmware development** and **full stack development**
-- 🔭 I’m currently working on finishing my last semester at **Columbia University**.
+I am a MSEE student @ Columbia University <img height="20px" alt="columbia" src="./columbia-icon.png" /> and a former Purdue Boilermaker<img height="20px" alt="purdue" src="./purdue-icon.png" />.
+
+**About Me**
+- 🤩 I'm passionate about **Autonomous Driving*, *firmware development** and **full stack development**
+- 🔭 I’m an **ex-intern** at Caterpillar CRDC <img height="20px" alt="caterpillar" src="./caterpillar-icon.png" />.
 - 🌱 I’m currently learning **embedded systems**, **cloud computing** and **machine learning**.
 - 💬 I'm coding in **Java**, **Python**, and **JavaScript/TypeScript** recently
 - 📫 How to reach me: cf2859@columbia.edu
